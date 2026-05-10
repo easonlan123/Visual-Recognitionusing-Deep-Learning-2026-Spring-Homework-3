@@ -28,6 +28,7 @@ folder
 &emsp; model.py 
 
 &emsp; predict.py  
+&emsp; utils.py  
 
 &emsp; hw3-data-release 
 
