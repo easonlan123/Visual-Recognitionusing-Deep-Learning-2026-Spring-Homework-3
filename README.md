@@ -5,7 +5,7 @@
 
 ## Introduction
 
- The core idea is to build a DETR-based detector with pretrained weight ResNet-50 backbone by emphasizing localization early and focus on classification later.
+ The core idea is to build a Mask R-CNN detector-segmentor with pretrained weight ResNet-50 backbone by layer freezing and resizing and then carefully control post-processing at inference time.
 
 ---
 
@@ -40,8 +40,6 @@ folder
 &emsp;&emsp;&emsp; images 
 
 
-
-If you want to train the model. You will have to download best_model.pth from [https://drive.google.com/file/d/1W5Uhz5gB_GPxXubUMzlxlO4LAEdoTtzU/view?usp=sharing](https://drive.google.com/file/d/1rsaeM6yiax2zokw2Rem5_tSxVB6Cdw4X/view?usp=sharing)
 
 # Training
 ```bash
