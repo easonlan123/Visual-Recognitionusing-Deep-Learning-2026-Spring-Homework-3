@@ -30,6 +30,7 @@ folder
 &emsp; predict.py  
 
 &emsp; hw3-data-release 
+
 &emsp;&emsp; train  
 &emsp;&emsp;&emsp; images  
 &emsp;&emsp; test  
@@ -37,9 +38,6 @@ folder
 &emsp;&emsp; val  
 &emsp;&emsp;&emsp; images 
 
-&emsp;&emsp; valid.json 
-
-&emsp;&emsp; train.json 
 
 
 If you want to train the model. You will have to download best_model.pth from [https://drive.google.com/file/d/1W5Uhz5gB_GPxXubUMzlxlO4LAEdoTtzU/view?usp=sharing](https://drive.google.com/file/d/1rsaeM6yiax2zokw2Rem5_tSxVB6Cdw4X/view?usp=sharing)
