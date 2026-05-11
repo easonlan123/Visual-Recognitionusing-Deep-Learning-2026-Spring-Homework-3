@@ -6,6 +6,7 @@
 ## Introduction
 
  The core idea is to build a Mask R-CNN detector-segmentor with pretrained weight ResNet-50 backbone by layer freezing and resizing and then carefully control post-processing at inference time.
+ Model: https://drive.google.com/file/d/1w_QfCugn4HFSpCLbYKX5iP7ZcYCf2g0W/view?usp=sharing
 
 ---
 
